@@ -1,6 +1,7 @@
 # speed_automation_system_IOT
 
 We creating this project for reducing the road accidents.
+
 Hardware components:-
 1) arduino-UNO
 2) Making a wireless Transmmiter and Reciever.
